@@ -12,3 +12,15 @@ phlow: # replace this with your info
   email:
   twitter: "@phlow"
 # you can add more authors here
+mtfallsVR: # replace this with your info
+  name: "Phlow"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: http://atemosta.com/
+  email:
+  twitter: "@mtfallsVR"
+ousikai: # replace this with your info
+  name: "Ousikai"
+  siterole: "Hero-in-training"
+  uri: http://atemosta.com/
+  email:
+  twitter: "@Ousikai"

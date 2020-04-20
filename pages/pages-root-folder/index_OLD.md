@@ -5,7 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "A Tempest of Stars"
 header:
   image_fullwidth: header_atos.jpg
 widget1:
@@ -17,13 +16,27 @@ widget2:
   title: "Mobile Applications"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-apps-302x182.jpg
-  text: 'Streamlined solutions to simplify our unsystematic lives.'
+  text: 'Browse through what we have developed and get a sneak peek at what is in the works.'
 widget3:
   title: "Blog"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-tutorials-302x182.jpg
   text: 'Tutorials and musings through middle earth and the virtual unknown.'
 
+#
+# Use the call for action to show a button on the frontpage
+#
+# To make internal links, just use a permalink like this
+# url: /getting-started/
+#
+# To style the button in different colors, use no value
+# to use the main color or success, alert or secondary.
+# To change colors see sass/_01_settings_colors.scss
+#
+callforaction:
+  url: https://tinyletter.com/feeling-responsive
+  text: Inform me about new updates and features ›
+  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -31,3 +44,10 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>

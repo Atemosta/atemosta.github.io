@@ -1,12 +1,12 @@
-- title: Home
+- title: Start
   url: "/"
   side: left
 
-- title: About
-  url: "/about/"
+- title: Getting Started
+  url: "/getting-started/"
   side: left
 
-- title: "Virtual Reality"
+- title: "Templates"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Mobile Applications"
+- title: "Header Styles"
   url: "/headers/"
   side: left
   dropdown:
@@ -49,6 +49,15 @@
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
+
+- title: Documentation
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"
