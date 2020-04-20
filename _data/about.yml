@@ -1,0 +1,15 @@
+- name: "mtfallsVR"
+  avi: /images/avi/avi_mtfallsVR_200x200.jpg
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: http://atemosta.com/
+  email:
+  twitter_handle: "@mtfallsVR"
+  twitter_url: "https://twitter.com/mtfallsVR"
+
+- name: "Ousikai"
+  avi: /images/avi/avi_Ousikai_200x200.jpg
+  siterole: "Hero-in-training"
+  uri: http://atemosta.com/
+  email:
+  twitter_handle: "@Ousikai"
+  twitter_url: "https://twitter.com/Ousikai"
