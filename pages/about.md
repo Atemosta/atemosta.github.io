@@ -19,7 +19,7 @@ header:
 
 ...and learn at the same time.
 
-*Atemosta* is our ongoing collaborative effort to utilize all our skills to try and create some amazing projects. Whether you're looking to use our works, suggest feedback, or join our team, we are more than willing to let *Atemosta* be your next home on the internet!
+*Atemosta* is our ongoing collaborative effort to utilize all our skills to create some amazing projects. Whether you are looking to use our works, suggest feedback, or join our team, we are more than willing to let *Atemosta* be your next home on the internet!
 
 ## The Team
 

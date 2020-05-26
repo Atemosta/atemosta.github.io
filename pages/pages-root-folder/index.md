@@ -10,17 +10,17 @@ header:
   image_fullwidth: header_atos.jpg
 widget1:
   title: "Virtual Reality"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'https://atemosta.com/virtual-reality'
   image: widget-vr-302x182.jpg
   text: 'Discover the selves dwelling just beneath the surface.'
 widget2:
-  title: "Mobile Applications"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "Projects"
+  url: 'https://atemosta.com/projects'
   image: widget-apps-302x182.jpg
   text: 'Streamlined solutions to simplify our unsystematic lives.'
 widget3:
   title: "Blog"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'https://atemosta.com/blog'
   image: widget-tutorials-302x182.jpg
   text: 'Tutorials and musings through middle earth and the virtual unknown.'
 

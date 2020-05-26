@@ -1,5 +1,5 @@
 ---
-permalink: /search/
+permalink: /virtual-reality/
 layout: page
 title: "Search"
 sitemap: false

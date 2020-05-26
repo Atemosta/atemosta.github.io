@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Discussion"
-title: "Test-First-Blog!"
+title: "Test-Third-Blog!"
 teaser: "For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It's easy to set, it works and makes a static jekyll blog more dynamic."
 header:
     image_fullwidth: "header_typewriter.jpg"
@@ -11,9 +11,10 @@ image:
     thumb:  typewriter-thumb.jpg
     homepage: homepage_typewriter.jpg
 categories:
-    - design
-comments: true
-show_meta: false
+    - virtual-reality
+tags:
+    - Virtual Reality
+show_meta: true
 ---
 If you want to use Disqus-Comments with *Feeling Responsive*, just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
 <!--more-->
