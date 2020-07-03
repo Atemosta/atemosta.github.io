@@ -10,10 +10,10 @@
   url: "/virtual-reality/"
   side: left
   dropdown:
-  - title: "Developer Diaries"
-    url: "/virtual-reality/developer-diaries/"
   - title: "Evolution of Experience"
     url: "/virtual-reality/evolution-of-experience/"
+  - title: "VR Developer Diaries"
+    url: "/virtual-reality/vr-developer-diaries/"
   # - title: "Page/Post"
   #   url: "/design/page/"
   # - title: "Post-Left-Sidebar"
@@ -56,8 +56,6 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Animation Introspection"
-    url: "/blog/animation-introspection"
   - title: "Perfecting Your Protagonist"
     url: "/blog/perfecting-your-protagonist"
 
