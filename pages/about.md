@@ -19,14 +19,13 @@ header:
 
 ...and learn at the same time.
 
-*Atemosta* is our ongoing collaborative effort to utilize all our skills to create some amazing projects. Whether you are looking to use our works, suggest feedback, or join our team, we are more than willing to let *Atemosta* be your next home on the internet!
+A self-styled gamers' guild calling itself a small business, **Atemosta** wants to bring into reality all the things you love about the virtual world, *especially* community, one project at a time.
 
 ## The Team
-
 {% for author in site.data.about %}
   <h3>{{ author.name }}</h3>
-  <img src="{{ site.url }}/{{ author.avi }}" alt="{{ author.name }}" />
-  <p>{{ author.info }}</p>
+  <img src="{{ site.url }}/{{ author.avi }}" alt="{{ author.name }}" /><br>
+  {{ author.info }} <br>
   <img src="{{ site.url }}/images/icon/Twitter_Social_Icon_Circle_Color.png" alt="{{ author.twitter }}" height="20" width="20" />
   <a href="{{ author.twitter_url }}">{{ author.twitter_handle}}</a>
 {% endfor %}

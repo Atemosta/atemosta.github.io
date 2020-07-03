@@ -9,11 +9,11 @@
 - title: "Virtual Reality"
   url: "/virtual-reality/"
   side: left
-  # dropdown:
-  # - title: "Grid & Colors"
-  #   url: "/design/grid/"
-  # - title: "Typography"
-  #   url: "/design/typography/typography/"
+  dropdown:
+  - title: "Developer Diaries"
+    url: "/virtual-reality/developer-diaries/"
+  - title: "Evolution of Experience"
+    url: "/virtual-reality/evolution-of-experience/"
   # - title: "Page/Post"
   #   url: "/design/page/"
   # - title: "Post-Left-Sidebar"
@@ -34,9 +34,11 @@
 - title: "Projects"
   url: "/projects/"
   side: left
-  # dropdown:
-  # - title: "Header with Full-Width-Image"
-  #   url: "/design/header-full-width-image/"
+  dropdown:
+  - title: "Fell Star Archives"
+    url: "/projects/fell-star-archives/"
+  - title: "Littlewood Academia"
+    url: "/projects/littlwood-academia/"
   # - title: "Header with Image and Pattern"
   #   url: "/design/header-image-pattern/"
   # - title: "Header with image and color"
@@ -54,8 +56,10 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/"
+  - title: "Animation Introspection"
+    url: "/blog/animation-introspection"
+  - title: "Perfecting Your Protagonist"
+    url: "/blog/perfecting-your-protagonist"
 
 - title: "Search"
   url: "/search/"
