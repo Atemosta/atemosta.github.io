@@ -11,7 +11,7 @@ image:
     caption: Photo by Corey Blaz
     caption_url: https://blaz.photography/
 categories:
-    - virtual-reality
+    - pizza-time
 tags:
     - Virtual Reality
 show_meta: true

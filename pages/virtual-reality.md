@@ -2,8 +2,8 @@
 permalink: /virtual-reality/
 layout: page-fullwidth
 show_meta: false
-title: "Title!"
-subheadline: "Subheadline"
+title: "Virtual Reality"
+subheadline: "In this world, a single blade can take you anywhere you want to go"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 ---

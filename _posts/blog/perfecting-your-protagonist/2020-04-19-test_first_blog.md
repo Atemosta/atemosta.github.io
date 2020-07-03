@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Discussion"
-title: "Test-Second-Blog!"
+title: "Test-First-Blog!"
 teaser: "For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It's easy to set, it works and makes a static jekyll blog more dynamic."
 header:
     image_fullwidth: "header_typewriter.jpg"
@@ -14,7 +14,7 @@ image:
     caption: Photo by Corey Blaz
     caption_url: https://blaz.photography/
 categories:
-    - virtual-reality
+    - pizza-time
 tags:
     - Virtual Reality
 show_meta: true
