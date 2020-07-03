@@ -1,14 +1,14 @@
 ---
-permalink: /virtual-reality/
+permalink: /projects/
 layout: page-fullwidth
 show_meta: false
-title: "Title!"
-subheadline: "Subheadline"
+title: "Projects"
+subheadline: "In this world, a single blade can take you anywhere you want to go"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 ---
 <ul>
-    {% for post in site.categories.virtual-reality %}
+    {% for post in site.categories.projects %}
     <div class="row">
       <div class="small-12 columns b60">
         <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
