@@ -5,12 +5,12 @@ subheadline: "Blog"
 title: "VR Developer Diaries"
 teaser: "A blog following mtfallsVR's journey in creating virtual worlds and experiences."
 header:
-    image_fullwidth: "header_typewriter.jpg"
-    caption: Image by Florian Klauer
-    caption_url: "http://florianklauer.de/"
+    image_fullwidth: "blog/vr-developer-diaries/header-intro.jpg"
+    caption:  Akihiko Kayaba, the famed created of Sword Art Online
+    caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
 image:
-    thumb:  typewriter-thumb.jpg
-    homepage: homepage_typewriter.jpg
+    thumb:  blog/vr-developer-diaries/thumb-intro.jpg
+    homepage: blog/vr-developer-diaries/kayaba-akihiko-BIG.jpg
 categories:
     - virtual-reality
 tags:
@@ -20,6 +20,8 @@ author: mtfallsVR
 show_meta: true
 ---
 The most important value in gaining knowledge, is the application of it. The most important value in applying things, is finding out what your limits are, so you can exceed them on your next attempt. In this blog, I will be putting my [knowledge][1] to the test to see if I can get even just an inch closer to creating the worlds I've dreamed of for so long.  
+
+![Aincrad](/images/blog/vr-developer-diaries/aincrad-full.jpg)
 
 # Latest Blog Posts
 <ul>
@@ -40,7 +42,7 @@ The most important value in gaining knowledge, is the application of it. The mos
 </ul>
 
 
-[1]: http://atemosta.com/virtual-reality/evolution-of-experience
+[1]: {{site.baseurl}}/virtual-reality/evolution-of-experience
 
 
 <!-- [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81LOP9) -->

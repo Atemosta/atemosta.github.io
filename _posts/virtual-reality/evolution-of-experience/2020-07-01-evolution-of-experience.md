@@ -5,12 +5,12 @@ subheadline: "Blog"
 title: "Evolution of Experience"
 teaser: "A blog following mtfallsVR's journey in experiencing what virtual reality has to offer and what new affordances succeed and fail in the infancy of this medium."
 header:
-    image_fullwidth: "header_typewriter.jpg"
-    caption: Image by Florian Klauer
-    caption_url: "http://florianklauer.de/"
+    image_fullwidth: "blog/evolution-of-experience/header-intro.jpg"
+    caption: Sword Art Online - Ordinal Scale
+    caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
 image:
-    thumb:  typewriter-thumb.jpg
-    homepage: homepage_typewriter.jpg
+    thumb:  blog/evolution-of-experience/thumb-intro.jpg
+    homepage: blog/evolution-of-experience/header-intro.jpg
 categories:
     - virtual-reality
 tags:
@@ -40,7 +40,7 @@ In an effort to convince me to be more diligent about my education and wanderlus
 </ul>
 
 
-[1]: http://atemosta.com/virtual-reality/vr-developer-diaries
+[1]: {{site.baseurl}}/virtual-reality/vr-developer-diaries
 
 
 <!-- [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81LOP9) -->

@@ -10,6 +10,17 @@ header:
 image:
     thumb:  projects/fell-star-archives/icon_fell_star_archives.jpg
     homepage: projects/fell-star-archives/icon_fell_star_archives.jpg
+gallery:
+    - image_url: projects/fell-star-archives/pkmn-sumo.jpg
+      caption: Pokemon Sun/Pokemon Moon (Nintendo Switch)
+    - image_url: projects/fell-star-archives/pkmn-swsh.png
+      caption: Pokemon Sword/Shield (Nintendo Switch)
+    - image_url: projects/fell-star-archives/fsa_three_houses.jpg
+      caption: Fire Emblem - Three Houses (Nintendo Switch)
+    - image_url: projects/fell-star-archives/fsa-fire-emblem-heroes.png
+      caption: Fire Emblem Heroes (Mobile)
+    - image_url: projects/fell-star-archives/fsa-persona-4-golden.png
+      caption: Persona 4 Golden (PS Vita/PC)
 categories:
     - projects
 tags:
@@ -36,6 +47,10 @@ Create and save player builds based on your style of gameplay, or download build
 # Integrated Games
 The following games have been integrated with the **Fell Star Archives** to enhance the information lookup experience.
 
+{% include gallery %}
+
+# Backlog Games
+A new **Fell Star Archive** are planned to be added in later updates for the following games:
 
 [TODO: Add Gallery of Games Integrated With Amazon Affiliates Links!]
 

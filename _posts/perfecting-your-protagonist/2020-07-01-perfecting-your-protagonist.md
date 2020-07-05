@@ -4,12 +4,12 @@ subheadline: "Blog"
 title: "Perfecting Your Protagonist"
 teaser: "A blog following Ousikai's journey in discovering the hero within."
 header:
-    image_fullwidth: "header_typewriter.jpg"
-    caption: Image by Florian Klauer
-    caption_url: "http://florianklauer.de/"
+    image_fullwidth: "blog/perfecting-your-protagonist/intro-header.jpg"
+    caption: In this world, a single blade can take you anywhere you want to go.
+    caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
 image:
-    thumb:  typewriter-thumb.jpg
-    homepage: homepage_typewriter.jpg
+    thumb:  blog/perfecting-your-protagonist/intro-thumb.jpg
+    homepage: blog/perfecting-your-protagonist/intro.jpg
 categories:
     - blog
 tags:

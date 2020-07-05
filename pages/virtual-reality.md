@@ -5,7 +5,7 @@ show_meta: false
 title: "Virtual Reality"
 subheadline: "In this world, a single blade can take you anywhere you want to go"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "virtual-reality/header.jpg"
 ---
 <ul>
     {% for post in site.categories.virtual-reality %}
