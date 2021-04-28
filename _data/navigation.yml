@@ -6,66 +6,40 @@
   url: "/about/"
   side: left
 
+- title: "Night Sky Market "
+  url: "/night-sky-market/"
+  side: left
+  dropdown:
+  - title: "About"
+    url: "/night-sky-market/about/"
+  - title: "Download"
+    url: "/night-sky-market/apply/"
+  - title: "Apply"
+    url: "/night-sky-market/download/"
+
 - title: "Tempest Crossing"
   url: "/tempest-crossing/"
   side: left
   dropdown:
+  - title: "About"
+    url: "/tempest-crossing/about/"
+  - title: "Download"
+    url: "/tempest-crossing/download/"
   - title: "Teller of Worlds"
     url: "/tempest-crossing/teller-of-worlds/"
   - title: "Tempest Tokens"
     url: "/tempest-crossing/tempest-tokens/"
-  # - title: "VR Developer Diaries"
-  #  url: "/virtual-reality/vr-developer-diaries/"
-  # - title: "Page/Post"
-  #   url: "/design/page/"
-  # - title: "Post-Left-Sidebar"
-  #   url: "/design/post-left-sidebar/"
-  # - title: "Post-Right-Sidebar"
-  #   url: "/design/post-right-sidebar/"
-  # - title: "Page Full-Width"
-  #   url: "/design/page-fullwidth/"
-  # - title: "Blog-Page"
-  #   url: "/blog/"
-  # - title: "Video"
-  #   url: "/design/video/"
-  # - title: "Gallery"
-  #   url: "/design/gallery/"
-  # - title: "Portfolio"
-  #   url: "/design/portfolio/"
 
-- title: "Projects"
-  url: "/projects/"
+- title: "Wanderer's Library"
+  url: "/wanderers-library/"
   side: left
   dropdown:
+  - title: "About"
+    url: "/wanderers-library/about/"
   - title: "FEH Gauntlet Bot"
-    url: "/projects/feh-gauntlet-bot/"
-  - title: "Fell Star Archives"
-    url: "/projects/fell-star-archives/"
-  - title: "Littlewood Academia"
-    url: "/projects/littlewood-academia/"
-  # - title: "Header with Image and Pattern"
-  #   url: "/design/header-image-pattern/"
-  # - title: "Header with image and color"
-  #   url: "/design/header-image-color/"
-  # - title: "Header Only With Logo"
-  #   url: "/design/header-logo-only/"
-  # - title: "Header With Text"
-  #   url: "/design/header-with-text/"
-  # - title: "No Header"
-  #   url: "/design/no-header/"
-  # - title: "No Header but Image"
-  #   url: "/design/no-header-but-image/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Edge of Eclipse (The Future)"
-    url: "/blog/edge-of-eclipse/"
-  - title: "Perfecting Your Protagonist (The Present)"
-    url: "/blog/perfecting-your-protagonist/"
-  - title: "Twilight Theater (The Past)"
-    url: "/blog/twilight-theater/"
+    url: "/wanderers-library/feh-gauntlet-bot/"
+  - title: "Littlewood Town"
+    url: "/wanderers-library/littlewood-town/"
 
 - title: "Search"
   url: "/search/"
@@ -75,11 +49,11 @@
   url: "/contact/"
   side: right
 
-- title: "Donate"
-  url: "/donate/"
-  side: right
-  dropdown:
-    - title: "Hall of Heroes"
-      url: "/hall-of-heroes/"
-    - title: "Tempest Tokens"
-      url: "/tempest-crossing/tempest-tokens/"
+# - title: "Donate"
+#   url: "/donate/"
+#   side: right
+#   dropdown:
+#     - title: "Hall of Heroes"
+#       url: "/hall-of-heroes/"
+#     - title: "Tempest Tokens"
+#       url: "/tempest-crossing/tempest-tokens/"
