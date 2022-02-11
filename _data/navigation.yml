@@ -5,48 +5,50 @@
 - title: About
   url: "/about/"
   side: left
-
-- title: "Night Sky Market "
-  url: "/night-sky-market/"
-  side: left
   dropdown:
-  - title: "About"
-    url: "/night-sky-market/about/"
-  - title: "Download"
-    url: "/night-sky-market/apply/"
-  - title: "Apply"
-    url: "/night-sky-market/download/"
-
-- title: "Tempest Crossing"
-  url: "/tempest-crossing/"
-  side: left
-  dropdown:
-  - title: "About"
-    url: "/tempest-crossing/about/"
-  - title: "Download"
-    url: "/tempest-crossing/download/"
-  - title: "Teller of Worlds"
-    url: "/tempest-crossing/teller-of-worlds/"
+  - title: "Roadmap"
+    url: "/about/roadmap/"
+  - title: "Tempest Titles"
+    url: "/about/tempest-titles/"
   - title: "Tempest Tokens"
-    url: "/tempest-crossing/tempest-tokens/"
+    url: "/about/tempest-tokens/"
 
-- title: "Wanderer's Library"
-  url: "/wanderers-library/"
+- title: "Blog"
+  url: "/blog/"
+  side: left
+
+- title: "Community"
+  url: "/community/"
   side: left
   dropdown:
-  - title: "About"
-    url: "/wanderers-library/about/"
-  - title: "FEH Gauntlet Bot"
-    url: "/wanderers-library/feh-gauntlet-bot/"
   - title: "Littlewood Town"
-    url: "/wanderers-library/littlewood-town/"
+    url: "/projects/littlewood-town/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+- title: "Projects"
+  url: "/projects/"
+  side: left
+  dropdown:
+  - title: "FEH Gauntlet Bot"
+    url: "/projects/feh-gauntlet-bot/"
+  - title: "Generation Omega"
+    url: "/projects/generation-omega/"
+  - title: "Myujen"
+    url: "/projects/myujen/"
+  - title: "Tolbana"
+    url: "/projects/tolbana/"
+  - title: "VRCad3"
+    url: "/projects/VRCad3/"
 
 - title: "Contact"
   url: "/contact/"
+  side: right
+
+- title: "Donate"
+  url: "/donate/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
   side: right
 
 # - title: "Donate"
