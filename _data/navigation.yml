@@ -8,10 +8,6 @@
   dropdown:
   - title: "Roadmap"
     url: "/about/roadmap/"
-  - title: "Tempest Titles"
-    url: "/about/tempest-titles/"
-  - title: "Tempest Tokens"
-    url: "/about/tempest-tokens/"
 
 - title: "Blog"
   url: "/blog/"
@@ -26,14 +22,24 @@
   url: "/community/"
   side: left
   dropdown:
+  - title: "Littlewood Academia"
+    url: "/community/littlewood-academia/"
   - title: "Littlewood Town"
-    url: "/projects/littlewood-town/"
+    url: "/community/littlewood-town/"
+  - title: "Tempest Crossing"
+    url: "/community/tempest-crossing/"
+  - title: "Tempest Titles"
+    url: "/community/tempest-titles/"
+  - title: "Tempest Tokens"
+    url: "/community/tempest-tokens/"
+  - title: "Tempest Trials"
+    url: "/community/tempest-trials/"
 
 - title: "Projects"
   url: "/projects/"
   side: left
   dropdown:
-  - title: "FEH Gauntlet Bot"
+  - title: "FEH-Gauntlet-Bot"
     url: "/projects/feh-gauntlet-bot/"
   - title: "Generation Omega"
     url: "/projects/generation-omega/"

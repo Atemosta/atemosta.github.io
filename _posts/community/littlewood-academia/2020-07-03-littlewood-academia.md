@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "Community Building"
+subheadline: "Community"
 title: "Littlewood Academia"
 teaser: "The first step into online guilds intersecting the physical world."
 header:
@@ -11,10 +11,11 @@ image:
     thumb:  thumbnail_sao_guild.jpg
     homepage: raw_sao_guild.jpg
 categories:
-    - projects
+    - community
 tags:
     - Projects
     - Littlewood Academia
+author: OscarKevinXR
 show_meta: true
 ---
 Despite being more populous and interconnected than ever, there has never been a more dystopic sense of community in the present day world. The desire to meet and befriend strangers is seen as something close to heretical, which creates an increasingly sense of isolation for those who want to grow beyond their current social circles. We at **Atemosta** want to do our part to break this silly status quo, and what better way to party up with strangers than with a quest?

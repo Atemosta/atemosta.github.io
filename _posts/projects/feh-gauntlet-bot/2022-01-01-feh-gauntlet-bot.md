@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "Twitter Bot (Genny) and Discord Bot (Rebecca)"
+subheadline: "FEH-Gauntlet-Bot"
 title: "FEH Gauntlet Bot V2: Electric Boogaloo"
 teaser: "A bot for Fire Emblem Heroes that sends notifications when your team is losing during Voting Gauntlets!."
 header:
@@ -14,7 +14,7 @@ categories:
     - projects
 tags:
     - projects
-author: OhKairos
+author: OscarKevinXR
 show_meta: true
 ---
 
