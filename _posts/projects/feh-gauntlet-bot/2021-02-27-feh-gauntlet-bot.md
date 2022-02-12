@@ -20,7 +20,7 @@ show_meta: true
 
 Hey you, glad you could make it! Now, where have we been since our last post?  
 
-[Original Blog Post Here on Old Website](https://ohkairos.github.io/projects/feh-gauntlet-bot/)
+[Original Blog Post Here on Old Website](https://oscarkevinxr.github.io/projects/feh-gauntlet-bot/)
 
 ## Did You Set It to Wumpus? (Discord Integration)  
 The main reason for this post is to explain why FEH-Gauntlet-Bot has moved from Twitter to Discord for all future updates. The reasoning is simple: there was once upon a time that the bot got suspended with no justification from Twitter support. When we sent a case to appeal, it was approved without any context as to why. Subpar Twitter experience aside aside, it was then I realized I had no means of communicating to my users that the bot was unusable! To remediate that, I make a decision to open up a discord server with the same functionality as the original twitter bot, but with two key differentiators:  
@@ -38,15 +38,17 @@ This is the fun part! Remember that community bit we was preaching about earlier
 * Replicating the whole VG experience via Discord! This will give a chance to see how you fare had you been on another team within the true FEH VG (Tempest Tokens up for grab here too!).
 
 ## Joshua and the Tempest Treasures (Tempest Tokens)
-[Full Article Here: Tempest Tokens]({{site.url}}{{site.baseurl}}/tempest-crossing/tempest-tokens/)
+[Full Article Here: Tempest Tokens]({{site.url}}{{site.baseurl}}/community/tempest-tokens/)
+
+
 Atemosta is a bootstrapped entity focused on creating solutions for people like us (hyper-JRPG nerds). Our premise is simple: create simple and elegant solutions using existing technologies, and flourish a community around these solutions. Since we LOVE  you all so much :heart: , we decided to create a community reward known as Tempest Tokens. 
 
-A preview into the future, Atemosta hopes to create enough passive-revenue streams so we can focus on our true desire: to build out a [fully-fledged VR JMMORG]({{site.url}}{{site.baseurl}}/tempest-crossing/) with homages to our favorite games. To reward early users of our solutions, we have created a cryptocurrency known as Tempest Tokens. It runs on XLM (more details in our white paper [TODO: LINK HERE]), but what's neat about this blockchain is two things: how fast it runs, and how easy it is to swap tokens on-chain. Through this amazing technology, we plan to create a myriad of tokens and prize redemptions for our early users in order to make an even more polished and streamlined experience for future users!
+A preview into the future, Atemosta hopes to create enough passive-revenue streams so we can focus on our true desire: to build out a fully-fledged [VR MMORG Metaverse]({{site.url}}{{site.baseurl}}/community/tempest-crossing/) with homages to our favorite games. To reward early users of our solutions, we have created a cryptocurrency known as Tempest Tokens. It runs on XLM (more details in our white paper, ***Coming Soon...***), but what's neat about this blockchain is two things: how fast it runs, and how easy it is to swap tokens on-chain. Through this amazing technology, we plan to create a myriad of tokens and prize redemptions for our early users in order to make an even more polished and streamlined experience for future users!
 
-Now Joshua... why Joshua? Joshua is known as a notorious gambler and Tempest King of FEH 8: Sacred Stones. For those willing to play his games, we distributes Tempest Tokens to community members participating in FEH-Gauntlet-Bot related events, and as of now these Tempest Tokens can be redeemed for [Discord Rewards]({{site.url}}{{site.baseurl}}/tempest-crossing/tempest-tokens/atos-vg-rewards) and physical items in our [ATOS Secret Shop]({{site.url}}{{site.baseurl}}/tempest-crossing/tempest-tokens/atos-secret-shop). 
+Now Joshua... why Joshua? Joshua is known as a notorious gambler and Tempest King of FEH 8: Sacred Stones. For those willing to play his games, we distributes Tempest Tokens to community members participating in FEH-Gauntlet-Bot related events, and as of now these Tempest Tokens can be redeemed for [Discord Rewards]({{site.url}}{{site.baseurl}}/projects/feh-gauntlet-bot/annas-secret-shop).
 
 ## Can I Haz Tempest Tokens?
-Most will be given out for free as a thank you to our community, but for the more passionate of the bunch, we are willing to sell them too. **Note**: it is ***HIGHLY INADVISABLE*** to buy these as the value created by our solutions is pretty small at this moment in time, but if you are still intrgued beyond that, send a direct message to `OhKairos#4545` on discord or send an email to ohaiyo+atos@atemosta.com for more details. 
+Most will be given out for free as a thank you to our community, but for the more passionate of the bunch, we are willing to exchange them for dontations too. **Note**: it is ***HIGHLY INADVISABLE*** to acquire these with the expectation of making a profit as the value created by our solutions is pretty small at this moment in time, but if you are still intrigued beyond that, send a direct message to [OscarKevin on Keybase](https://keybase.io/oscarkevin) or send an email to ohaiyo+atos@atemosta.com for more details. 
 
 ## Back to Work, Techie (What's Under the Hood)
 This bot has come a LONG way since it was first coded up in college. A lot of improvements have already been implemented, such as:
