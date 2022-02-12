@@ -16,6 +16,11 @@
 - title: "Blog"
   url: "/blog/"
   side: left
+  dropdown:
+  - title: "Latest"
+    url: "/blog/"
+  - title: "Archive"
+    url: "/blog/archive/"
 
 - title: "Community"
   url: "/community/"
