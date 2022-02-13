@@ -35,10 +35,13 @@ Our Online Pokémon League also deserves a HUGE shoutout! Upset with the lack of
 
 The Littlewood Online Pokémon League hosts a monthly mono-type tournament (Gym Leader Challenge), Pokémon League Challenge where you must beat 8 Gym Leaders to collect their gym badges for the chance to battle the Elite Four and current Champion, and monthly no-type restriction tournament. All community created events are free to enter, and feature eShop Gift Cards to the ultimate winners of each event! If this seems like a new adventure right up your alley, you are MORE than welcome to join our discord server through the link provided: [https://discord.gg/5ACq6M7][1] -->
 
-Coming soon! 
+* Discord: [https://discord.com/invite/6GzUTME38h][2]
+* Keybase: [https://keybase.io/team/atemosta.public][1]
+* Twitter: *Coming soon...*
 
 # Current Offline Communities
 Coming Soon!
 
-[1]: https://discord.gg/5ACq6M7
-<!-- [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81LOP9) -->
+[1]: https://keybase.io/team/atemosta.littlewood_town
+[2]: https://discord.com/invite/6GzUTME38h
+[3]: http://www.twitter.com/Atemosta
