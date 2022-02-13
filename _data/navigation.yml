@@ -47,8 +47,8 @@
     url: "/projects/myujen/"
   - title: "Tolbana"
     url: "/projects/tolbana/"
-  - title: "VRCad3"
-    url: "/projects/VRCad3/"
+  # - title: "VRCad3"
+  #   url: "/projects/VRCad3/"
 
 - title: "Contact"
   url: "/contact/"

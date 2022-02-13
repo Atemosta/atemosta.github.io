@@ -2,7 +2,7 @@
 layout: page
 subheadline: "FEH-Gauntlet-Bot"
 title: "FEH Gauntlet Bot V2: Electric Boogaloo"
-teaser: "A bot for Fire Emblem Heroes that sends notifications when your team is losing during Voting Gauntlets!."
+teaser: "A bot for Fire Emblem Heroes that sends notifications when your team is losing during Voting Gauntlets!"
 header:
     image_fullwidth: "header_fell_star.jpg"
     caption: An Ancient Being of Unlimited Knowledge
