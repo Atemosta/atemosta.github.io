@@ -39,8 +39,10 @@
   url: "/projects/"
   side: left
   dropdown:
-  - title: "FEH-Gauntlet-Bot"
-    url: "/projects/feh-gauntlet-bot/"
+  # - title: "Colrea"
+  #   url: "/projects/colrea/"
+  # - title: "FEH-Gauntlet-Bot"
+  #   url: "/projects/feh-gauntlet-bot/"
   - title: "Generation Omega"
     url: "/projects/generation-omega/"
   - title: "Myujen"
