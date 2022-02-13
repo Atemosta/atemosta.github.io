@@ -8,7 +8,7 @@ header:
     # caption: Argo the information broker of Sword Art Online
     # caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
 image:
-    thumb:  blog/teller-of-worlds/2021-02/relationships-THUMB.png
+    thumb: blog/teller-of-worlds/2021-02/relationships-THUMB.jpg
     homepage: blog/teller-of-worlds/2021-02/relationships-HEAD.png
 categories:
     - projects

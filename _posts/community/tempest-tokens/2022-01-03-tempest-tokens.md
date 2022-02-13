@@ -11,7 +11,7 @@ image:
     thumb:  blog/teller-of-worlds/floor-1-thumb.jpg
     homepage: blog/teller-of-worlds/floor-1-thumb.jpg
 categories:
-    - tempest-crossing
+    - community
 tags:
     - cryptocurrency
 author: OscarKevinXR

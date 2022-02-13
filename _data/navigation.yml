@@ -5,9 +5,9 @@
 - title: About
   url: "/about/"
   side: left
-  dropdown:
-  - title: "Roadmap"
-    url: "/about/roadmap/"
+  # dropdown:
+  # - title: "Roadmap"
+  #   url: "/about/roadmap/"
 
 - title: "Blog"
   url: "/blog/"
@@ -22,18 +22,18 @@
   url: "/community/"
   side: left
   dropdown:
-  - title: "Littlewood Academia"
-    url: "/community/littlewood-academia/"
+  # - title: "Littlewood Academia"
+  #   url: "/community/littlewood-academia/"
   - title: "Littlewood Town"
     url: "/community/littlewood-town/"
-  - title: "Tempest Crossing"
-    url: "/community/tempest-crossing/"
-  - title: "Tempest Titles"
-    url: "/community/tempest-titles/"
+  # - title: "Tempest Crossing"
+  #   url: "/community/tempest-crossing/"
+  # - title: "Tempest Titles"
+  #   url: "/community/tempest-titles/"
   - title: "Tempest Tokens"
     url: "/community/tempest-tokens/"
-  - title: "Tempest Trials"
-    url: "/community/tempest-trials/"
+  # - title: "Tempest Trials"
+  #   url: "/community/tempest-trials/"
 
 - title: "Projects"
   url: "/projects/"
@@ -54,9 +54,9 @@
   url: "/contact/"
   side: right
 
-- title: "Donate"
-  url: "/donate/"
-  side: right
+# - title: "Donate"
+#   url: "/donate/"
+#   side: right
 
 - title: "Search"
   url: "/search/"
