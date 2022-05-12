@@ -1,0 +1,127 @@
+---
+layout: page
+subheadline: "Projects"
+title: "Immria"
+teaser: "Physical Immutability in an Infinitely Expanding Metaverse"
+header:
+    image_fullwidth: "projects/immria/m2-head-blur.png"
+    # caption: Argo the information broker of Sword Art Online
+    # caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
+image:
+    thumb: projects/immria/m2-thumb.png
+    homepage: projects/immria/m2-raw.jpeg
+categories:
+    - projects
+tags:
+    - web3
+    - nfts
+    - metaverse
+    - VR
+    - AR
+    - XR 
+author: OscarKevinXR
+show_meta: true
+comments: true
+---
+
+## Will you remember me? 
+*The days seem endless, but the years flash by in an instant. As you turn to look back on the life you have achieved, you realize that everything that you stand for, everything you believed yourself to be, starts with the generations of lives you stand upon, and ends with the last time your name is ever uttered.*
+
+*But what if your name could stand beyond the fraction of your existence, what if it could live on even after you are gone?*
+
+*Just before you, a massive hall opens in a beautiful and alluring radiance. It is in this hall that you find a monument where you can engrave the proof of your reality, your **immortal memoria**...*
+
+### Inspiration
+As explorers of the metaverse, Atemosta is always searching the next great and meaningful intersection of blockchain, fantasy, and virtual reality. In our digital traversals, we stumbled upon an experience called the [Monument of Life][1]...
+
+![Monument of Life Anime Screenshot One](/images/projects/immria/m1-raw.jpeg)
+
+![Monument of Life Anime Screenshot Two](/images/projects/immria/m2-raw.jpeg)
+
+![Monument of Life Virtual Reality Display](/images/projects/immria/m3.jpeg)
+
+In the [Sword Art Online -EX-CHRONICLE- Online Exhibit][2], there was an ongoing experience in the event where players could challenge a prominent boss monster from the anime series, and survivors of the encounter would have their name written on the marble display in the center of the town in exhibit. It got us at Atemosta thinking, who deserves to have their name engraved in the onset of this budding metaverse?  We then came across an obvious answer...
+
+![Discord Role for Early Support Screenshot](/images/projects/immria/m4.png)
+
+Several startup companies and upcoming content creators are in huge need of early financial supporters to help them focus on their craft and manifest their amazing visions to reality, and a simple thank you that many offer is recognition for early support in the form of credits somewhere in their works (*we ourselves have donated to several patreons and kickstarters to get dorky cosmetic discord roles as proof of our support*). It gives a warm fuzzy feeling to know that your cash has done good in someone else's life, but what about creating a way to display it for future metaverse travelers to witness?
+
+
+### Introducing: Immria
+The first interation of Immria, ***Novus***, can be experienced on your favorite VR Headset Web Browser at:
+
+------> [https://immria.atemosta.com/novus/index.html][3] <------
+
+
+You can use the left thumb stick for moving and press+hold the right stick button to teleport.
+
+
+![Myujen Preview 1](/images/projects/immria/m5.jpeg)
+
+For those unsure on how to even USE a web browser in VR (trust us, it was pretty new idea for us as well), you can click on the demo below and replicate these steps for an Oculus Quest. 
+
+[VIDEO HEREEE]
+
+
+### The Future of Name Collecting
+#### Engraving Your Name
+If you think there is potential in Immria, you can be amongst the first to immortalize your name in our metaverse! As we expand our product suite and create metaverse worlds for each one, we will have a unique Immria instance to represent the world and proudly display its first supporters. 
+
+For our experimental ***Novus*** instance, you will need to complete two steps.
+
+**Step 1: Financial Givings**
+
+Right now we are pricing a name in our ***Novus*** instance at $10 USD. 
+
+If you are a U.S. citizen you can send that amount to the following locations:
+
+* Strike: **@Atemosta** 
+
+    * Did you know that you can earn $10 USD for signing up with Strike using our referral code (**5WOAHU**) at [https://invite.strike.me/5WOAHU][4]? Just saying 😊
+
+
+* Zelle: **ohaiyo@atemosta.com**
+
+* Ko-fi: [https://ko-fi.com/atemosta][5]
+
+
+For non-U.S. citizens, please send and email to **ohaiyo@atemosta.com** with the subject *"Immria Engraving - Novus"* and we can work something out 😊
+
+
+If there any additional ways that you suggest for sending and receiving money, please leave a comment in the Discourse below! 
+
+**Step 2: Name Registration**
+
+Once you have sent over your registration fee, please fill out the linked form below to confirm your transaction and submit your desired name! It can be your name, your online alias, a good friend or family member's name, the name of your favorite anime character, the list goes on...
+
+------> [https://forms.gle/Fd9qPdSYSQmWsEmu9][6] <------
+
+
+#### Blockchain and NFT Utility
+![Immmria NFTs Possible Idea](/images/projects/immria/m6.jpeg)
+
+Right now, our process of collecting names and engraving them into our metaverse instance is rather rudimentary and manual. If Immria takes off and becomes more mainstream, we will invest time and resources into having the engraving process take place on blockchain! The benefits can be immense, with the two features we are looking to capture being instant transacations from anywhere in the world, and data immutability from being written to the blockchain. We can even create proof of the engravings and display them for the whole world to see as NFTs, or even trade them in the future with prospective fame hunters... our story begins now, and you are on the ground floor of a new journey.
+
+### Follow Our Progress!
+If you'd like to follow along with **Immria**'s progress, please [follow our Twitter page][7] or [sign up for our monthly newsletter][8]! You many even get special surprises and perks just for following along and giving feedback :) 
+
+We hope to see you again soon, in one reality or another.
+
+![Goodbye for Now!](/images/projects/immria/m7.jpeg)
+
+
+[1]: https://swordartonline.fandom.com/wiki/Monument_of_Life
+[2]: https://2021.sao-ex-chronicle.com/s/excglb/
+[3]: https://immria.atemosta.com/novus/index.html
+[4]: https://invite.strike.me/5WOAHU
+[5]: https://ko-fi.com/atemosta
+[6]: https://forms.gle/Fd9qPdSYSQmWsEmu9
+[7]: https://twitter.com/Atemosta
+[8]: https://tinyletter.com/Atemosta
+
+
+
+
+
+
+
