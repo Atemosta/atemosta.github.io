@@ -5,7 +5,7 @@ show_meta: false
 title: "Projects"
 subheadline: "In this world, a single blade can take you anywhere you want to go"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "blog/vr-developer-diaries/header-intro.jpg"
 ---
 <ul>
     {% for post in site.categories.projects %}
