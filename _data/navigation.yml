@@ -12,26 +12,26 @@
 - title: "Blog"
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Latest"
-    url: "/blog/"
-  - title: "Archive"
-    url: "/blog/archive/"
+  # dropdown:
+  # - title: "Latest"
+  #   url: "/blog/"
+  # - title: "Archive"
+  #   url: "/blog/archive/"
 
 - title: "Community"
-  url: "/community/"
+  url: "/community/littlewood-town"
   side: left
   dropdown:
   # - title: "Littlewood Academia"
   #   url: "/community/littlewood-academia/"
-  - title: "Littlewood Town"
-    url: "/community/littlewood-town/"
+  # - title: "Littlewood Town"
+  #   url: "/community/littlewood-town/"
   # - title: "Tempest Crossing"
   #   url: "/community/tempest-crossing/"
   # - title: "Tempest Titles"
   #   url: "/community/tempest-titles/"
-  - title: "Tempest Tokens"
-    url: "/community/tempest-tokens/"
+  # - title: "Tempest Tokens"
+  #   url: "/community/tempest-tokens/"
   # - title: "Tempest Trials"
   #   url: "/community/tempest-trials/"
 
