@@ -5,7 +5,7 @@ show_meta: false
 title: "Community"
 subheadline: "In this world, a single blade can take you anywhere you want to go"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "blog/vr-developer-diaries/aincrad-full.jpg"
 ---
 <ul>
     {% for post in site.categories.community %}

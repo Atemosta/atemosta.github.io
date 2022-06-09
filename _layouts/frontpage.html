@@ -9,6 +9,14 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+<div class="row t60">
+    <center>
+        <p style="font-size: x-large">
+            <b>Atemosta</b> is a metaverse startup integrating <i>XR</i>, <i>Web3</i>, and <i>Immersive Storytelling</i> 
+                <br/>to reimagine our identities across the physical and digital worlds.
+        </p>
+    </center>
+</div>
 
 {% comment %}
 *
@@ -28,28 +36,6 @@ format: frontpage
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
-
-
-
-{% comment %}
-*
-* First check, if there is a call for action-button
-*
-{% endcomment %}
-{% if page.callforaction.url contains 'http' %}
-{% assign url = '' %}
-{% else %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-{% endif %}
-{% if page.callforaction %}
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-{% endif %}
-
-
 
 {% comment %}
 *
@@ -109,3 +95,21 @@ format: frontpage
 <div class="row">
     {{ content }}
 </div><!-- /.row -->
+
+{% comment %}
+*
+* First check, if there is a call for action-button
+*
+{% endcomment %}
+{% if page.callforaction.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+{% if page.callforaction %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+{% endif %}

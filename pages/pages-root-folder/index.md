@@ -9,20 +9,20 @@ title: "A Tempest of Stars"
 header:
   image_fullwidth: header_atos.jpg
 widget1:
+  title: "Projects"
+  url: 'https://atemosta.com/projects'
+  image: widget-apps-302x182.jpg
+  text: 'What imperfect realities shall we bridge for you today?'
+widget3:
   title: "Blog"
   url: 'https://atemosta.com/blog'
   image: widget-tutorials-302x182.jpg
-  text: 'Join our guild on a journey through middle earth and the virtual unknown.'
+  text: 'Catch up on the latest project releases and announcements.'
 widget2:
   title: "Community"
   url: 'https://atemosta.com/community'
   image: widget-vr-302x182.jpg
   text: 'Find your place, find your people, find your reason.'
-widget3:
-  title: "Projects"
-  url: 'https://atemosta.com/projects'
-  image: widget-apps-302x182.jpg
-  text: 'Briding imperfecting realities through XR, storytelling, and blockchain.'
 
 permalink: /index.html
 #
