@@ -1,0 +1,19 @@
+---
+layout: null
+title: "Configuring Service Discovery via .well-known (Matrix Client)"
+permalink: /.well-known/matrix/client
+source: "https://github.com/spantaleev/matrix-docker-ansible-deploy/blob/master/docs/configuring-well-known.md"
+---
+{
+    "im.vector.riot.e2ee": {
+        "default": true
+    },
+    "io.element.e2ee": {
+        "default": true,
+        "secure_backup_required": false,
+        "secure_backup_setup_methods": []
+    },
+    "m.homeserver": {
+        "base_url": "https://matrix.atemosta.com"
+    }
+}
