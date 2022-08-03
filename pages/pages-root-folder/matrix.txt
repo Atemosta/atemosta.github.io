@@ -1,0 +1,9 @@
+---
+layout: null
+title: "Configuring Service Discovery via .well-known"
+permalink: /.well-known/matrix/server
+source: "https://github.com/spantaleev/matrix-docker-ansible-deploy/blob/master/docs/configuring-well-known.md"
+---
+{
+    "m.server": "matrix.atemosta.com:8448"
+}
