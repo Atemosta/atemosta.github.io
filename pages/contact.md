@@ -10,14 +10,7 @@ header:
     caption: The SAO In-game Menu
     caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
 ---
-* Email: **ohaiyo@atemosta.com**
-* Element: *Coming soon...*
-* Discord: [https://discord.com/invite/6GzUTME38h][2]
-* Keybase: [https://keybase.io/team/atemosta.public][1]
-* Session: *Coming soon...*
-* Status: *Coming soon...*
-* Twitter: [http://www.twitter.com/Atemosta][3]
+* Email: **ohaiyo+contact@atemosta.com**
+* Mastodon: [@Atemosta@mastodon.social ][1]
 
-[1]: https://keybase.io/team/atemosta.public
-[2]: https://discord.com/invite/6GzUTME38h
-[3]: http://www.twitter.com/Atemosta
+[1]: https://mastodon.social/@Atemosta

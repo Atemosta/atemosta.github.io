@@ -9,21 +9,20 @@ title: "A Tempest of Stars"
 header:
   image_fullwidth: header_atos.jpg
 widget1:
-  title: "Projects"
-  url: 'https://atemosta.com/projects'
-  image: widget-apps-302x182.jpg
-  text: 'What imperfect realities shall we bridge for you today?'
-widget3:
+  title: "Immria"
+  url: 'http://localhost:4000/projects/immria/'
+  image: widget-vr-302x182.jpg
+  text: 'Be remembered forever in the metaverse.'
+widget2:
   title: "Blog"
   url: 'https://atemosta.com/blog'
   image: widget-tutorials-302x182.jpg
-  text: 'Catch up on the latest project releases and announcements.'
-widget2:
-  title: "Community"
-  url: 'https://atemosta.com/community'
-  image: widget-vr-302x182.jpg
-  text: 'Find your place, find your people, find your reason.'
-
+  text: 'Catch up on the latest project updates and announcements.'
+widget3:
+  title: "Contact"
+  url: 'https://atemosta.com/contact'
+  image: widget-apps-302x182.jpg
+  text: 'Product support and collaboration requests.'
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -40,7 +39,7 @@ permalink: /index.html
 #
 callforaction:
   url: https://tinyletter.com/Atemosta
-  text: Inform me about new updates and features ›
+  text: 📧 Join our monthly newsletter ›
   style: alert
 permalink: /index.html
 homepage: true

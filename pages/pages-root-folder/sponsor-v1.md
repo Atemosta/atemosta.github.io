@@ -1,7 +1,7 @@
 ---
-permalink: /donate/
+# permalink: /sponsor/
 layout: page
-title: "Donate"
+title: "Sponsor"
 sitemap: false
 header:
     image_fullwidth: "header-search.jpg"
