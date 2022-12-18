@@ -10,8 +10,8 @@ header:
 image:
     thumb: blog/teller-of-worlds/2021-02/relationships-THUMB.jpg
     homepage: blog/teller-of-worlds/2021-02/relationships-HEAD.png
-categories:
-    - projects
+# categories:
+#     - projects
 tags:
     - web3
     - gaming

@@ -21,8 +21,8 @@ gallery:
       caption: Fire Emblem Heroes (Mobile)
     - image_url: projects/fell-star-archives/fsa-persona-4-golden.png
       caption: Persona 4 Golden (PS Vita/PC)
-categories:
-    - projects
+# categories:
+#     - projects
 tags:
     - Projects
     - Fell Star Archives
