@@ -3,7 +3,7 @@
 <script language="Javascript" type="text/javascript">
 	function google_search() {
 		var query = document.getElementById("google-search").value;
-		window.open("https://www.duckduckgo.com/search?q=" + query + "+site:" + "{{ google_search_site | cgi_escape }}");
+		window.open("https://searxng.atemosta.com/search?q=" + query + "+site:" + "{{ google_search_site | cgi_escape }}");
 	}
 </script>
 
@@ -11,6 +11,6 @@
 	<input type="text" id="google-search" placeholder="{{ site.data.language.enter_search_term }}">
 </form>
 <noscript>
-	Search <a href="https://www.duckduckgo.com/search?q=site:{{ google_search_site | cgi_escape }}" target="_blank">DuckDuckGo</a> for:
+	Search <a href="https://searxng.atemosta.com/search?q=site:{{ google_search_site | cgi_escape }}" target="_blank">Google</a> for:
 	<pre><code>search-term site:{{ google_search_site }}</code></pre>
 </noscript>

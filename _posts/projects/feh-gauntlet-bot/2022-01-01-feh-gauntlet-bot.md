@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "FEH-Gauntlet-Bot"
-title: "FEH Gauntlet Bot V2: Electric Boogaloo"
+title: "FEH-Gauntlet-Bot"
 teaser: "A bot for Fire Emblem Heroes that sends notifications when your team is losing during Voting Gauntlets!"
 header:
     image_fullwidth: "header_fell_star.jpg"
@@ -10,8 +10,8 @@ header:
 image:
     thumb:  projects/fell-star-archives/icon_fell_star_archives.jpg
     homepage: projects/fell-star-archives/icon_fell_star_archives.jpg
-categories:
-    - projects
+# categories:
+#     - projects
 tags:
     - projects
 author: OscarKevinXR

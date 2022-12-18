@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: About
-  url: "/about/"
-  side: left
+# - title: About
+#   url: "/about/"
+#   side: left
   # dropdown:
   # - title: "Roadmap"
   #   url: "/about/roadmap/"
@@ -18,10 +18,10 @@
   # - title: "Archive"
   #   url: "/blog/archive/"
 
-- title: "Community"
-  url: "/community/littlewood-town"
-  side: left
-  dropdown:
+# - title: "Community"
+#   url: "/community/littlewood-town"
+#   side: left
+#   dropdown:
   # - title: "Littlewood Academia"
   #   url: "/community/littlewood-academia/"
   # - title: "Littlewood Town"
@@ -43,14 +43,14 @@
   #   url: "/projects/colrea/"
   # - title: "FEH-Gauntlet-Bot"
   #   url: "/projects/feh-gauntlet-bot/"
-  - title: "Generation Omega"
-    url: "/projects/generation-omega/"
+  # - title: "Generation Omega"
+  #   url: "/projects/generation-omega/"
   - title: "Immria"
     url: "/projects/immria/"
-  - title: "Myujen"
-    url: "/projects/myujen/"
-  - title: "Tolbana"
-    url: "/projects/tolbana/"
+  # - title: "Myujen"
+  #   url: "/projects/myujen/"
+  # - title: "Tolbana"
+  #   url: "/projects/tolbana/"
   # - title: "VRCad3"
   #   url: "/projects/VRCad3/"
 
@@ -62,15 +62,17 @@
 #   url: "/donate/"
 #   side: right
 
+- title: "Sponsor"
+  url: "/sponsor/"
+  side: right
+  # dropdown:
+  #   - title: "Hall of Heroes"
+  #     url: "/hall-of-heroes/"
+  #   - title: "Tempest Tokens"
+  #     url: "/tempest-crossing/tempest-tokens/"
+
 - title: "Search"
   url: "/search/"
   side: right
 
-# - title: "Donate"
-#   url: "/donate/"
-#   side: right
-#   dropdown:
-#     - title: "Hall of Heroes"
-#       url: "/hall-of-heroes/"
-#     - title: "Tempest Tokens"
-#       url: "/tempest-crossing/tempest-tokens/"
+
