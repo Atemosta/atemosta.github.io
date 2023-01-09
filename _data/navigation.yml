@@ -62,8 +62,8 @@
 #   url: "/donate/"
 #   side: right
 
-- title: "Sponsor"
-  url: "/sponsor/"
+- title: "Donate"
+  url: "/donate/"
   side: right
   # dropdown:
   #   - title: "Hall of Heroes"
