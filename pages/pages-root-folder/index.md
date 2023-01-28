@@ -10,7 +10,7 @@ header:
   image_fullwidth: header_atos.jpg
 widget1:
   title: "Immria"
-  url: 'http://localhost:4000/projects/immria/'
+  url: 'http://atemosta.com/projects/immria/'
   image: widget-vr-302x182.jpg
   text: 'Be remembered forever in the metaverse.'
 widget2:
