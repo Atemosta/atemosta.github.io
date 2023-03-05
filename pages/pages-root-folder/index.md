@@ -7,22 +7,22 @@
 layout: frontpage
 title: "A Tempest of Stars"
 header:
-  image_fullwidth: header_atos.jpg
+  image_fullwidth: z_old/header_atos.jpg
 widget1:
-  title: "Immria"
-  url: 'http://atemosta.com/projects/immria/'
-  image: widget-vr-302x182.jpg
-  text: 'Be remembered forever in the metaverse.'
+  title: "Projects"
+  url: 'http://atemosta.com/projects/'
+  image: z_old/widget-vr-302x182.jpg
+  text: 'What are we up to?'
 widget2:
-  title: "Blog"
-  url: 'https://atemosta.com/blog'
-  image: widget-tutorials-302x182.jpg
-  text: 'Catch up on the latest project updates and announcements.'
-widget3:
   title: "Contact"
   url: 'https://atemosta.com/contact'
-  image: widget-apps-302x182.jpg
-  text: 'Product support and collaboration requests.'
+  image: z_old/widget-apps-302x182.jpg
+  text: 'Get in touch with us!'
+widget3:
+  title: "Donate"
+  url: 'https://atemosta.com/donate'
+  image: z_old/widget-tutorials-302x182.jpg
+  text: 'Support our work and get digital rewards!'
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

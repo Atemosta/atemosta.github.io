@@ -1,0 +1,5 @@
+- name: "Filo"
+  avi: /images/avi/filo.png
+  about: Converts Twitter Links to Atemosta's Nitter Instance
+  code: "https://gitlab.com/atemosta/filo"
+  invite: "https://discord.com/api/oauth2/authorize?client_id=1080196284058718238&permissions=3072&scope=bot%20applications.commands"
