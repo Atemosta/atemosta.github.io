@@ -32,6 +32,4 @@ A self-styled gamers' guild calling itself a metaverse startup, **Atemosta** wan
         <a href="{{ author.twitter_url }}">{{ author.twitter_handle}}</a> 
       <br/>
   </p>
-  
-
 {% endfor %}

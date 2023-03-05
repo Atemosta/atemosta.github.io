@@ -11,6 +11,6 @@ header:
     caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
 ---
 * Email: **ohaiyo+contact@atemosta.com**
-* Mastodon: [@Atemosta@mastodon.social ][1]
+<!-- * Mastodon: [@Atemosta@mastodon.social ][1] -->
 
 [1]: https://mastodon.social/@Atemosta

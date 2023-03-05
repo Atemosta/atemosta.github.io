@@ -2,16 +2,16 @@
   url: "/"
   side: left
 
-# - title: About
-#   url: "/about/"
+- title: About
+  url: "/about/"
 #   side: left
   # dropdown:
   # - title: "Roadmap"
   #   url: "/about/roadmap/"
 
-- title: "Blog"
-  url: "/blog/"
-  side: left
+# - title: "Blog"
+#   url: "/blog/"
+#   side: left
   # dropdown:
   # - title: "Latest"
   #   url: "/blog/"
@@ -39,37 +39,66 @@
   url: "/projects/"
   side: left
   dropdown:
+  - title: "ATOS -> TO"
+    url: "https://atos.to/"
   # - title: "Colrea"
   #   url: "/projects/colrea/"
   # - title: "FEH-Gauntlet-Bot"
   #   url: "/projects/feh-gauntlet-bot/"
   # - title: "Generation Omega"
   #   url: "/projects/generation-omega/"
+  - title: "D4CBooks"
+    url: "https://d4cbooks.atemosta.com/"
+  - title: "Discord Bots"
+    url: "/projects/discord/"  
   - title: "Immria"
     url: "/projects/immria/"
-  # - title: "Myujen"
-  #   url: "/projects/myujen/"
+  - title: "Myujen"
+    url: "/projects/myujen/"
   # - title: "Tolbana"
   #   url: "/projects/tolbana/"
   # - title: "VRCad3"
   #   url: "/projects/VRCad3/"
 
+- title: "Public Instances"
+  url: "/public/"
+  side: left
+  dropdown:
+  - title: "Nitter"
+    url: "https://nitter.atemosta.com"
+  - title: "Searxng"
+    url: "https://searxng.atemosta.com"
+
+- title: "Socials"
+  side: left
+  url: "/socials/"
+  dropdown:
+  - title: "Discord"
+    url: "https://discord.gg/dwRsPJU7Rh"
+  - title: "Mastodon"
+    url: "https://mastodon.social/@atemosta"
+  - title: "Matrix"
+    url: "https://matrix.to/#/#atemosta:atemosta.com"
+  - title: "Odysee"
+    url: "https://odysee.com/@Atemosta:a"
+  - title: "Twitter"
+    url: "https://twitter.com/atemosta"
+  - title: "YouTube"
+    url: "https://youtube.com/@Atemosta"
+
 - title: "Contact"
   url: "/contact/"
   side: right
 
-# - title: "Donate"
-#   url: "/donate/"
-#   side: right
-
 - title: "Donate"
   url: "/donate/"
   side: right
-  # dropdown:
-  #   - title: "Hall of Heroes"
-  #     url: "/hall-of-heroes/"
-  #   - title: "Tempest Tokens"
-  #     url: "/tempest-crossing/tempest-tokens/"
+  dropdown:
+    - title: "Hall of Heroes"
+      # url: "/hall-of-heroes/"
+      url: "https://www.immria.com/worlds/monument/deploy/index.html?early-and-late"
+    # - title: "Tempest Tokens"
+    #   url: "/tempest-crossing/tempest-tokens/"
 
 - title: "Search"
   url: "/search/"
