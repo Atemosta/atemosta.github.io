@@ -4,7 +4,7 @@
 
 - title: About
   url: "/about/"
-#   side: left
+  side: left
   # dropdown:
   # - title: "Roadmap"
   #   url: "/about/roadmap/"
@@ -43,8 +43,8 @@
     url: "https://atos.to/"
   # - title: "Colrea"
   #   url: "/projects/colrea/"
-  # - title: "FEH-Gauntlet-Bot"
-  #   url: "/projects/feh-gauntlet-bot/"
+  - title: "FEH-Gauntlet-Bot"
+    url: "/projects/feh-gauntlet-bot/"
   # - title: "Generation Omega"
   #   url: "/projects/generation-omega/"
   - title: "D4CBooks"
@@ -53,6 +53,8 @@
     url: "/projects/discord/"  
   - title: "Immria"
     url: "/projects/immria/"
+  - title: "Lore"
+    url: "https://lore.atemosta.com"
   - title: "Myujen"
     url: "/projects/myujen/"
   # - title: "Tolbana"
@@ -61,8 +63,8 @@
   #   url: "/projects/VRCad3/"
 
 - title: "Public Instances"
-  url: "/public/"
   side: left
+  # url: "/public/"
   dropdown:
   - title: "Nitter"
     url: "https://nitter.atemosta.com"
@@ -71,7 +73,7 @@
 
 - title: "Socials"
   side: left
-  url: "/socials/"
+  # url: "/socials/"
   dropdown:
   - title: "Discord"
     url: "https://discord.gg/dwRsPJU7Rh"

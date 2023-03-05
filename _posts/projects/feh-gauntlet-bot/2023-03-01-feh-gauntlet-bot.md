@@ -10,8 +10,8 @@ header:
 image:
     thumb:  projects/fell-star-archives/icon_fell_star_archives.jpg
     homepage: projects/fell-star-archives/icon_fell_star_archives.jpg
-# categories:
-#     - projects
+categories:
+    - projects
 tags:
     - projects
 author: OscarKevinXR
