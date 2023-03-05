@@ -22,15 +22,17 @@ You can pay the same amount amount via different venues and still receive the sa
 
 ## Cryptocurrency
 ### Monero
-***<<87JYnEVUUyvWbWrBP7PzXNFCv1yVaA27W98ZKgBaETwwLRRvRG14Fg6AZS2hDmyUvge1mnBBMvtioc7MrRr5xVq4At7S8ii>>***
-![Monument of Life Virtual Reality Display](/images/donate/monero.png)
+Address: ***<<87JYnEVUUyvWbWrBP7PzXNFCv1yVaA27W98ZKgBaETwwLRRvRG14Fg6AZS2hDmyUvge1mnBBMvtioc7MrRr5xVq4At7S8ii>>***
+![Monero QR Code](/images/donate/monero.png)
 
-### Bitcoin
-* BTCPay (Bitcoin and Lightning Network) - Coming soon :^)
-* [Bitcoin Lightning (USD via Strike - @Atemosta)][12]
+### Bitcoin and Ligtning Network
+* BTCPay - Coming soon :^)
+* [Strike (@Atemosta)][12]
 
-### Ethereum 
-Coming soon :^)
+### Ethereum/Polygon
+Address: ***<<0x5cB6FB391f29646AeEe53A4134584fD48F54C4BF>>***
+
+![Ethereum QR Code](/images/donate/eth.png)
 
 ## Tiers
 Be sure to reach out to ***ohaiyo+donate@atemosta.com*** with the the following to claim your digital rewards!
